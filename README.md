@@ -80,7 +80,7 @@ GPL-3.0-or-later
 
 ## Credits
 
-Created by Blender Bob with assistance from ChatGPT
+Created by Blender Bob with assistance from Claude.ai
 
 ## Contributing
 
