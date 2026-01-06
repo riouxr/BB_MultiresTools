@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "multires_tools"
+version = "1.0.0"
+name = "BB Multires Tools"
+tagline = "Toggle Multires viewport and optimal display"
+maintainer = "Blender Bob & Claude.ai"
+type = "add-on"
+
+blender_version_min = "4.0.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later"
+]
